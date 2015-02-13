@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataStructure\DataStructure\bin\Debug\DataStructure.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataStructure\DataStructure\obj\Debug\DataStructure.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataStructure\DataStructure\obj\Debug\DataStructure.pdb

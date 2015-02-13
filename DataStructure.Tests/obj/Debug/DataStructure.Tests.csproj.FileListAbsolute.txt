@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataStructure\DataStructure.Tests\bin\Debug\DataStructure.Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataStructure\DataStructure.Tests\bin\Debug\DataStructure.Tests.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataStructure\DataStructure.Tests\bin\Debug\DataStructure.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataStructure\DataStructure.Tests\bin\Debug\DataStructure.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataStructure\DataStructure.Tests\obj\Debug\DataStructure.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataStructure\DataStructure.Tests\obj\Debug\DataStructure.Tests.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataStructure\DataStructure.Tests\obj\Debug\DataStructure.Tests.pdb

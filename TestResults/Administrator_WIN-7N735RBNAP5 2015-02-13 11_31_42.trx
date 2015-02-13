@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="16d2779c-ca58-438f-bb24-ac8c192d6b53" name="Administrator@WIN-7N735RBNAP5 2015-02-13 11:31:42" runUser="WIN-7N735RBNAP5\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="522247f1-328d-4164-a0be-c7aa4d915c31">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_WIN-7N735RBNAP5 2015-02-13 11_31_42">
+      <DeploymentItem filename="C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DataStructure\DataStructure\bin\Debug\DataStructure.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-02-13T11:31:42.3826014+08:00" queuing="2015-02-13T11:31:44.4226405+08:00" start="2015-02-13T11:31:44.5554530+08:00" finish="2015-02-13T12:32:11.8877578+08:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="WIN-7N735RBNAP5" outcome="Error" timestamp="2015-02-13T12:32:11.8818985+08:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GenerateBinaryTree" storage="c:\users\administrator\documents\visual studio 2010\projects\datastructure\datastructure.tests\bin\debug\datastructure.tests.dll" id="c3da2cb8-e1fc-4d12-8e24-ed9c81cf6f91">
+      <Execution id="d0987ecd-9bf6-443a-8602-db93f9466a59" />
+      <TestMethod codeBase="C:/Users/Administrator/Documents/Visual Studio 2010/Projects/DataStructure/DataStructure.Tests/bin/Debug/DataStructure.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DataStructure.Tests.BinaryTreeTest, DataStructure.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GenerateBinaryTree" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c3da2cb8-e1fc-4d12-8e24-ed9c81cf6f91" executionId="d0987ecd-9bf6-443a-8602-db93f9466a59" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d0987ecd-9bf6-443a-8602-db93f9466a59" testId="c3da2cb8-e1fc-4d12-8e24-ed9c81cf6f91" testName="GenerateBinaryTree" computerName="WIN-7N735RBNAP5" duration="01:00:27.1096486" startTime="2015-02-13T11:31:44.7781092+08:00" endTime="2015-02-13T12:32:11.8877578+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d0987ecd-9bf6-443a-8602-db93f9466a59">
+    </UnitTestResult>
+  </Results>
+</TestRun>
